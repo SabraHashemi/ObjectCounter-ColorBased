@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>white_brick.jpg</file>
+        <file>wall blue.ico</file>
+        <file>green-power-button-icon.png</file>
+        <file>red-power.png</file>
+        <file>wallpaper.jpg</file>
+        <file>color_wheel.png</file>
+        <file>folder.png</file>
+        <file>ico.ico</file>
+    </qresource>
+</RCC>
